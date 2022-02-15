@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 4ab4ef81-e995-7ae2-8e73-eec271679242
 ---
@@ -152,7 +155,7 @@ How to compute two-point correlators of scalar operators ([PDF]({{< baseurl >}}/
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Preview of real-time issues; two-point functions in momentum space (cont.); more on low-mass2 fields in AdS ([PDF]({{< baseurl >}}/resources/lecture15))
+Preview of real-time issues; two-point functions in momentum space (cont.); more on low-mass{{< sup "2" >}} fields in AdS ([PDF]({{< baseurl >}}/resources/lecture15))
 {{< tdclose >}}
 
 {{< trclose >}}

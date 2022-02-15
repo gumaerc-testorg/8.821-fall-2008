@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: ec445969-281d-f473-bc72-3b89b2d3ef6e
 ---
@@ -34,7 +37,7 @@ Some Topic Suggestions
 15.  Cusp anomalous dimension from string theory
 16.  BPS Wilson loops
 17.  C ≤ 1 strings and matrix models, an example of holography
-18.  AdS3and 2d CFT
+18.  AdS{{< sub "3" >}}and 2d CFT
 19.  Holography for large-_N_ vector models?
 20.  Behind the horizon by analyticity
 21.  Matrix models of black hole information con-sumption

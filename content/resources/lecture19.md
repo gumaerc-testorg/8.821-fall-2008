@@ -2,8 +2,13 @@
 content_type: resource
 description: Lecture notes on pointlike probes of the bulk, geometric optics through
   D-branes, baryons and branes, and a survey of other examples of the correspondence.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-821-string-theory-fall-2008/078974bf19381340cab50a86fc8cc89f_lecture19.pdf
+file: /media/courses/8-821-string-theory-fall-2008/078974bf19381340cab50a86fc8cc89f_lecture19.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Lecture 19
 uid: 078974bf-1938-1340-cab5-0a86fc8cc89f
