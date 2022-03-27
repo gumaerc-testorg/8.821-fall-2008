@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4ab4ef81-e995-7ae2-8e73-eec271679242
 resourcetype: Document
 title: 'Lecture 17: More on 3-point functions, the chiral anomaly, and Wilson loops'
 uid: f704cfed-444c-1740-4273-10905d04042d

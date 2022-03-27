@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4ab4ef81-e995-7ae2-8e73-eec271679242
 resourcetype: Document
 title: 'Lecture 20: The Wider World of Gauge/Gravity Duality'
 uid: 83dc0482-e297-f2ec-6f03-932553411230

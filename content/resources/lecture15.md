@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4ab4ef81-e995-7ae2-8e73-eec271679242
 resourcetype: Document
 title: 'Lecture 15: 2-Point Functions in P-space; Introduction to 3-Point Functions'
 uid: 6da5e974-c4b0-4023-f5df-a82875de834f

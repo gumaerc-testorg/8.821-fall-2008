@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4ab4ef81-e995-7ae2-8e73-eec271679242
 resourcetype: Document
 title: "Lecture 07 Preview of AdS\u2013CFT Correspondence; String Theory from Gauge\
   \ Fields; and t\u2019 Hooft Counting"

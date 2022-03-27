@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4ab4ef81-e995-7ae2-8e73-eec271679242
 resourcetype: Document
 title: 'Lecture 13: Masses of fields and dimensions of operators'
 uid: a7c18070-db26-0c88-a6fe-9080afabc659

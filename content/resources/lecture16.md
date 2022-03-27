@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4ab4ef81-e995-7ae2-8e73-eec271679242
 resourcetype: Document
 title: 'Lecture 16: Correlators of more than two operators'
 uid: 2f880539-7ee8-5069-2640-4a60d8d677d2

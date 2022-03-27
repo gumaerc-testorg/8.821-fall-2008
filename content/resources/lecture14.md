@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4ab4ef81-e995-7ae2-8e73-eec271679242
 resourcetype: Document
 title: "Lecture 14: Wave equation in AdS, Green\u2019s function"
 uid: 8caef2b2-fd46-0cd0-3dde-5d4700041ee0

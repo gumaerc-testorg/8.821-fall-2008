@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4ab4ef81-e995-7ae2-8e73-eec271679242
 resourcetype: Document
 title: "Lecture 24: Blackhole Thermodynamics (Con\u2019d)"
 uid: a3e418ff-0049-144b-2a70-f4c8bdd5d8d1

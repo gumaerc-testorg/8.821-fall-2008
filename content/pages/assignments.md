@@ -79,6 +79,6 @@ Problem set 6 ([PDF]({{< baseurl >}}/resources/pset06))
 
 {{< tableclose >}}
 
-Template for curvature calculations in mathematica, curvaturetemplate.nb ([NB](/courses/physics/8-821-string-theory-fall-2008/assignments/curvaturetemplate.nb))
+Template for curvature calculations in mathematica, curvaturetemplate.nb ([NB]({{< baseurl >}}/resources/curvaturetemplate))
 
 \* Note: For a hint on problem 1, see pages 100-101 of d'Hoker-Freedman for a sample tetrad calculation ([PDF - 1.1 MB](http://arxiv.org/PS_cache/hep-th/pdf/0201/0201253v2.pdf))

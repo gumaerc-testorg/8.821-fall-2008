@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4ab4ef81-e995-7ae2-8e73-eec271679242
 resourcetype: Document
 title: 'Lecture 06: Supersymmetric Lagrangians and Basic Checks of AdS/CFT'
 uid: af966809-bba8-f11c-acf5-f4e88d75ed1d

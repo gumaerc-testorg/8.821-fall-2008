@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 4ab4ef81-e995-7ae2-8e73-eec271679242
 resourcetype: Document
 title: 'Lecture 25: Thermal aspects of N = 4 SYM'
 uid: 1c9e44c6-a1b9-4e7c-371c-307a93779ffb
