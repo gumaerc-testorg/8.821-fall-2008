@@ -1,9 +1,14 @@
 ---
 content_type: page
+description: This section provides the topic wise distribution of sessions.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: 933af1a6-5aa0-a3ce-de35-4435e6d6dc60
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

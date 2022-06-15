@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section provides topic wise reading references.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 06d51dc8-8cb5-2f7e-f73b-542f5ec30d65
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

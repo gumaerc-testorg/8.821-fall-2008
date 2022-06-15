@@ -1,9 +1,14 @@
 ---
 content_type: page
+description: This section provides course related study papers.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 6e2685c4-e948-899d-dd02-bc38c45d7888
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 [Third Law of Black-Hole Dynamics: A Formulation and Proof](http://prola.aps.org/abstract/PRL/v57/i4/p397_1): This paper formulates and proves a precise version of the third law for black holes. A proof of the Zeroth Law can be found in Wald, GR, pp. 333-334.
