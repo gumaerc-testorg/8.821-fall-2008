@@ -1,7 +1,14 @@
 ---
 content_type: page
+description: This section provides course related study papers.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 6e2685c4-e948-899d-dd02-bc38c45d7888
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 [Third Law of Black-Hole Dynamics: A Formulation and Proof](http://prola.aps.org/abstract/PRL/v57/i4/p397_1): This paper formulates and proves a precise version of the third law for black holes. A proof of the Zeroth Law can be found in Wald, GR, pp. 333-334.
@@ -14,12 +21,12 @@ uid: 6e2685c4-e948-899d-dd02-bc38c45d7888
 
 [Scale and Conformal Invariance in Quantum Field Theory](http://dx.doi.org/10.1016/0550-3213(88)90179-4): This is the Polchinski paper about the relation between scale invariance and conformal invariance.
 
-Pointlike Structures Inside and Outside Hadrons: Coleman's &grave;1/N' paper ([PDF - 1.3 MB](http://link.springer.com/book/10.1007%2F978-1-4684-1065-5))#
+Pointlike Structures Inside and Outside Hadrons: Coleman's &grave;1/N' paper ([PDF - 1.3 MB](http://link.springer.com/book/10.1007%2F978-1-4684-1065-5)){{< sup "#" >}}
 
 [Introduction to Conformal Invariance](http://dx.doi.org/10.1111/j.1749-6632.1974.tb20531.x): Callan's review of conformal symmetry in QFT
 
 Supersymmetry and Non-perturbative Beta Functions: This is a non-perturbative proof of the vanishing of the beta function of the N=4 SYM theory ([PDF](http://dx.doi.org/10.1016/0370-2693(88)91265-8
-))#
+)){{< sup "#" >}}
 
 [Comments on Higher Derivative Operators in Some SUSY Field Theories](http://arxiv.org/abs/hep-th/9705057): This is a discussion of a nonzero supersymmetric higher-dimension correction to the effective action.
 

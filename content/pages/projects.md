@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This section provides some topic suggestions.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: ec445969-281d-f473-bc72-3b89b2d3ef6e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The end of term project for 8.821 will be a half-hour presentation or short (say 5 pages) paper summarizing a topic of interest, relevant to our class. The topic needn't be about string theory or gauge/gravity duality specifically.
@@ -34,7 +42,7 @@ Some Topic Suggestions
 15.  Cusp anomalous dimension from string theory
 16.  BPS Wilson loops
 17.  C ≤ 1 strings and matrix models, an example of holography
-18.  AdS3and 2d CFT
+18.  AdS{{< sub "3" >}}and 2d CFT
 19.  Holography for large-_N_ vector models?
 20.  Behind the horizon by analyticity
 21.  Matrix models of black hole information con-sumption
@@ -43,4 +51,4 @@ Some Topic Suggestions
 24.  Birkhoff/no-hair, quasinormal modes, and thermalization
 25.  Computation of hydrodynamic green functions
 
-Annotated list of topics ([PDF]({{< baseurl >}}/resources/endtrm_fin))
+Annotated list of topics ({{% resource_link 347f8e89-6c34-f40e-57d7-7ded14a52b6f "PDF" %}})

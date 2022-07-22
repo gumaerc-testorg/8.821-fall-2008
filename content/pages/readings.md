@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This section provides topic wise reading references.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 06d51dc8-8cb5-2f7e-f73b-542f5ec30d65
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -120,7 +128,7 @@ Big picture of correspondence; strings and strong interactions
 {{< tdopen >}}
 
 
-Coleman's &grave;1/N' paper ([PDF - 1.3 MB](http://link.springer.com/book/10.1007%2F978-1-4684-1065-5))#
+Coleman's &grave;1/N' paper ([PDF - 1.3 MB](http://link.springer.com/book/10.1007%2F978-1-4684-1065-5)){{< sup "#" >}}
 
 [Large N Field Theories, String Theory and Gravity](http://arxiv.org/abs/hep-th/9905111), section 1.2.
 
@@ -245,7 +253,7 @@ How to compute two-point correlators of scalar operators
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Preview of real-time issues; two-point functions in momentum space (cont.); more on low-mass2 fields in AdS
+Preview of real-time issues; two-point functions in momentum space (cont.); more on low-mass{{< sup "2" >}} fields in AdS
 {{< tdclose >}}
 {{< tdopen >}}
 
