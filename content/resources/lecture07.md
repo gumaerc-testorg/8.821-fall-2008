@@ -6,6 +6,7 @@ file: /courses/8-821-string-theory-fall-2008/a13b3444c1e2926aca5f25bdda522bc6_le
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on AdS–CFT correspondence, string theory from gauge fields, Strings as model of hadrons, flux tubes in QCD, and t’ Hooft counting.
-

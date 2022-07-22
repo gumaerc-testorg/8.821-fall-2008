@@ -7,6 +7,7 @@ file: /courses/8-821-string-theory-fall-2008/a9489a562dc17c13491aab189b92f012_le
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on scale and conformal invariance in field theory, emergence of strings from gauge theory, conformal symmetry in QFT, the conformal group, and representation theory.
-

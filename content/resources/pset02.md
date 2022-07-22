@@ -6,6 +6,7 @@ file: /courses/8-821-string-theory-fall-2008/fb813f7f8eb1c6c5fbc0682b3ebc6ddf_ps
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Problem set on how to remember the N = 4 action, the Bogomol'nyi–Prasad–Sommerfield bound, and W-bosons from adjoint higgsing.
-

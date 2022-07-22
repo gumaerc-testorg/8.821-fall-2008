@@ -6,6 +6,7 @@ file: /courses/8-821-string-theory-fall-2008/6e89ec211a53149e0f87d350191c4f63_le
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on the boundary of AdS, Poincaré patch, motivate boundary value problem, and the wave equation in AdS.
-

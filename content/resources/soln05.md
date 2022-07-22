@@ -6,6 +6,7 @@ file: /courses/8-821-string-theory-fall-2008/2d0696f1323d19be278f3cd1db85d91e_so
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Solutions to a problem set on bulk vector fields, relation between AdS propagators, Wilson line with cusp, and surface gravity.
-

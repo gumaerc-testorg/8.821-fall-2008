@@ -7,6 +7,7 @@ file: /courses/8-821-string-theory-fall-2008/deb6ad4ba42bb173e8e403f4b8acb73f_le
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on minimum surfaces, Wilson loops, quark-antiquark potential, Wilson loops with a cusp, correlators of Wilson loops, monopole-monopole potential, and k−surface observables.
-

@@ -6,6 +6,7 @@ file: /courses/8-821-string-theory-fall-2008/e9cb1e45a51bfc887b72accb2486d034_le
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on large N scaling in the t’ Hooft limit of quantum matrix models, N counting for vacuum diagrams, and N counting for correlators.
-

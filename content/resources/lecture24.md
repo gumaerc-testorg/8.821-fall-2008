@@ -6,6 +6,7 @@ file: /courses/8-821-string-theory-fall-2008/a3e418ff0049144b2a70f4c8bdd5d8d1_le
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on classical black hole thermodynamics and quantum blackhole thermodynamics.
-

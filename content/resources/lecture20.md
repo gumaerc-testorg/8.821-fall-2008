@@ -6,6 +6,7 @@ file: /courses/8-821-string-theory-fall-2008/83dc0482e297f2ec6f03932553411230_le
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on gauge gravity duality, non-spherical horizons, Dp-branes, M-theory, and confinement.
-

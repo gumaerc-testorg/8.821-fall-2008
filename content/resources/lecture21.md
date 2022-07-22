@@ -5,6 +5,7 @@ file: /courses/8-821-string-theory-fall-2008/a1005e3538578985183f9c5e183e6e87_le
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on confining geometry, mass gap, and black hole mechanics.
-

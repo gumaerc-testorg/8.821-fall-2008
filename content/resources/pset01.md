@@ -6,6 +6,7 @@ file: /courses/8-821-string-theory-fall-2008/3dc562d082f837011570ff565a84bef0_ps
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Problem set on branes ending on branes, timelike oscillators, the extremal Reissner-Nordstrom black hole, and the RR soliton.
-

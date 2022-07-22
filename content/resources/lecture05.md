@@ -6,6 +6,7 @@ file: /courses/8-821-string-theory-fall-2008/992574ecdb4b83911e7514b8c4a2e507_le
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on SUSY representation theory and properties of N=4 Super Yang-Mills theory.
-

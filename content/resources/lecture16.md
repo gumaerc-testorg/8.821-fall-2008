@@ -7,6 +7,7 @@ file: /courses/8-821-string-theory-fall-2008/2f8805397ee8506926404a60d8d677d2_le
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on correlators of more than two operators, 3-point functions, the relationship between the subleading term in the bulk field solution and the expectation value of the dual operator, and bulk gauge fields.
-

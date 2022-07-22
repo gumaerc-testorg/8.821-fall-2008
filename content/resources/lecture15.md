@@ -7,6 +7,7 @@ file: /courses/8-821-string-theory-fall-2008/6da5e974c4b04023f5dfa82875de834f_le
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on 2-point functions in P-space, some real-time issues, bulk to boundary propagator in position space, allowed scaling behavior at the boundary, and an introduction to 3-point functions.
-

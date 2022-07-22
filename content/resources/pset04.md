@@ -6,6 +6,7 @@ file: /courses/8-821-string-theory-fall-2008/21859d0b896e986df437b278d0038053_ps
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Problem set on fields in AdS, Schrödinger description of AdS instabilities, dimensions of vector operators, and saturating the unitarity bound.
-

@@ -6,6 +6,7 @@ file: /courses/8-821-string-theory-fall-2008/8caef2b2fd460cd03dde5d4700041ee0_le
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on the wave equation in AdS, Witten's method, k-space, Euclidean AdS, and Green’s function.
-

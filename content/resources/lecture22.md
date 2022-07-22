@@ -7,6 +7,7 @@ file: /courses/8-821-string-theory-fall-2008/ea42d2182b4a78c0501b2577a5478572_le
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on black holes, the Schwarzchild BH, the cosmic censorship conjecture, BH uniqueness, Hawking’s area theorem, using black holes to make engines, and the first law of black hole thermodynamics.
-

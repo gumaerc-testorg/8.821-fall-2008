@@ -6,6 +6,7 @@ file: /courses/8-821-string-theory-fall-2008/078974bf19381340cab50a86fc8cc89f_le
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on pointlike probes of the bulk, geometric optics through D-branes, baryons and branes, and a survey of other examples of the correspondence.
-

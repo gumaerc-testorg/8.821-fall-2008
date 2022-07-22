@@ -8,6 +8,7 @@ file: /courses/8-821-string-theory-fall-2008/22f010a84df39d4448ec5ff59382413d_le
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on hindsight derivation, the Weinberg-Witten theorem, the graviton, quantum field theory, the holographic principle, the renormalization group, supersymmetry (SUSY), conformal invariance, the "Cartan-Weyl" method, and counting of degrees of freedom.
-
