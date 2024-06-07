@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on AdS black holes, thermal gauge theory, the Polyakov-Susskind
   loop, screening, quasinormal modes, and Hawking-page transition.
 file: /courses/8-821-string-theory-fall-2008/1c9e44c6a1b94e7c371c307a93779ffb_lecture25.pdf
+file_size: 278953
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

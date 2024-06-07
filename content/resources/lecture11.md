@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes classical field theory, spheres and hyperboloids, and Lorentzian
   AdS and its boundary.
 file: /courses/8-821-string-theory-fall-2008/0b0d0496b0cfbbba1d88858ca8362e98_lecture11.pdf
+file_size: 213637
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

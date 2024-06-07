@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on the decoupling argument, backreaction, and AdS/CFT without
   string theory.
 file: /courses/8-821-string-theory-fall-2008/e5b834fb595f307dd99fcf6913971a4c_lecture03.pdf
+file_size: 164593
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
