@@ -4,6 +4,7 @@ description: Lecture notes on supersymmetric Lagrangians, SUSY Lagrangians, supe
   BPS or "chiral" multiplets, holomorphy and non-renormalization (seibergology), and
   basic checks of AdS/CFT.
 file: /courses/8-821-string-theory-fall-2008/af966809bba8f11cacf5f4e88d75ed1d_lecture06.pdf
+file_size: 212298
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

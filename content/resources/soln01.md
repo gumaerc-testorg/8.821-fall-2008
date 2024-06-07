@@ -3,6 +3,7 @@ content_type: resource
 description: Solutions to a problem set on branes ending on branes, timelike oscillators,
   the extremal Reissner-Nordstrom black hole, and the RR soliton.
 file: /courses/8-821-string-theory-fall-2008/7e7dd3994f88a5d72db832da090358b3_soln01.pdf
+file_size: 210320
 file_type: application/pdf
 learning_resource_types:
 - Assignments

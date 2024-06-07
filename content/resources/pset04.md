@@ -3,6 +3,7 @@ content_type: resource
 description: "Problem set on fields in AdS, Schr\xF6dinger description of AdS instabilities,\
   \ dimensions of vector operators, and saturating the unitarity bound."
 file: /courses/8-821-string-theory-fall-2008/21859d0b896e986df437b278d0038053_pset04.pdf
+file_size: 114239
 file_type: application/pdf
 learning_resource_types:
 - Assignments
