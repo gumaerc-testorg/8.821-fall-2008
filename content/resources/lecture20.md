@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on gauge gravity duality, non-spherical horizons, Dp-branes,
   M-theory, and confinement.
 file: /courses/8-821-string-theory-fall-2008/83dc0482e297f2ec6f03932553411230_lecture20.pdf
+file_size: 162872
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on the laws of black hole thermodynamics and how AdS black
   holes are related to finite temperature CFTs,
 file: /courses/8-821-string-theory-fall-2008/c9cb6d23481b7450aaa996bbf2ebc16d_lecture23.pdf
+file_size: 115003
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

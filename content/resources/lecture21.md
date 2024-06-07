@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on confining geometry, mass gap, and black hole mechanics.
 file: /courses/8-821-string-theory-fall-2008/a1005e3538578985183f9c5e183e6e87_lecture21.pdf
+file_size: 179793
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
