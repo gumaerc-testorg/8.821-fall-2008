@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on calculation of 3-point functions, the chiral anomaly,
   and Wilson loops.
-file: /courses/8-821-string-theory-fall-2008/f704cfed444c1740427310905d04042d_lecture17.pdf
+file: /ol-ocw-studio-app/courses/8-821-string-theory-fall-2008/f704cfed444c1740427310905d04042d_lecture17.pdf
 file_size: 248245
 file_type: application/pdf
 learning_resource_types:

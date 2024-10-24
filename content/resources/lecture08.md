@@ -2,7 +2,7 @@
 content_type: resource
 description: "Lecture notes on large N scaling in the t\u2019 Hooft limit of quantum\
   \ matrix models, N counting for vacuum diagrams, and N counting for correlators."
-file: /courses/8-821-string-theory-fall-2008/e9cb1e45a51bfc887b72accb2486d034_lecture08.pdf
+file: /ol-ocw-studio-app/courses/8-821-string-theory-fall-2008/e9cb1e45a51bfc887b72accb2486d034_lecture08.pdf
 file_size: 238548
 file_type: application/pdf
 learning_resource_types:
