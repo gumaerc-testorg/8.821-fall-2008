@@ -2,7 +2,7 @@
 content_type: resource
 description: "Problem set on how to remember the N = 4 action, the Bogomol'nyi\u2013\
   Prasad\u2013Sommerfield bound, and W-bosons from adjoint higgsing."
-file: /courses/8-821-string-theory-fall-2008/fb813f7f8eb1c6c5fbc0682b3ebc6ddf_pset02.pdf
+file: /ol-ocw-studio-app/courses/8-821-string-theory-fall-2008/fb813f7f8eb1c6c5fbc0682b3ebc6ddf_pset02.pdf
 file_size: 96570
 file_type: application/pdf
 learning_resource_types:
