@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes on 2-point functions in P-space, some real-time issues,
   bulk to boundary propagator in position space, allowed scaling behavior at the boundary,
   and an introduction to 3-point functions.
-file: /ol-ocw-studio-app/courses/8-821-string-theory-fall-2008/6da5e974c4b04023f5dfa82875de834f_lecture15.pdf
+file: /courses/8-821-string-theory-fall-2008/6da5e974c4b04023f5dfa82875de834f_lecture15.pdf
 file_size: 206490
 file_type: application/pdf
 learning_resource_types:

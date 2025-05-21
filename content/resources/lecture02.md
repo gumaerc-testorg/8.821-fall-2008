@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on string theory, the bosonic string, superstrings, and
   D-branes.
-file: /ol-ocw-studio-app/courses/8-821-string-theory-fall-2008/74a1f200767f0e321a50d878f7dc41e0_lecture02.pdf
+file: /courses/8-821-string-theory-fall-2008/74a1f200767f0e321a50d878f7dc41e0_lecture02.pdf
 file_size: 166007
 file_type: application/pdf
 learning_resource_types:

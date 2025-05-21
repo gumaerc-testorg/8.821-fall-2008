@@ -25,11 +25,11 @@ Pointlike Structures Inside and Outside Hadrons: Coleman's \`1/N' paper ([PDF - 
 
 [Introduction to Conformal Invariance](http://dx.doi.org/10.1111/j.1749-6632.1974.tb20531.x): Callan's review of conformal symmetry in QFT
 
-Supersymmetry and Non-perturbative Beta Functions: This is a non-perturbative proof of the vanishing of the beta function of the N=4 SYM theory ([PDF](http://dx.doi.org/10.1016/0370-2693%2888)91265-8  
+Supersymmetry and Non-perturbative Beta Functions: This is a non-perturbative proof of the vanishing of the beta function of the N=4 SYM theory ([PDF](http://dx.doi.org/10.1016/0370-2693%2888)91265-8   
 )){{< sup "#" >}}
 
 [Comments on Higher Derivative Operators in Some SUSY Field Theories](http://arxiv.org/abs/hep-th/9705057): This is a discussion of a nonzero supersymmetric higher-dimension correction to the effective action.
 
-[The Weinberg-Witten Theorem on Massless Particles](https://onlinelibrary.wiley.com/doi/abs/10.1002/andp.200810305): This is a review of the Weinberg-Witten theorem.
+[The Weinberg-Witten Theorem on Massless Particles](https://pure.mpg.de/rest/items/item_33005/component/file_33006/content): This is a review of the Weinberg-Witten theorem.
 
 [Topics in Particle Physics and Cosmology Beyond the Standard Model](http://arxiv.org/abs/hep-th/0607239): Alejandro Jenkins' thesis, chapter 2, is another review of the Weinberg-Witten theorem.

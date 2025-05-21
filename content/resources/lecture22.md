@@ -3,7 +3,7 @@ content_type: resource
 description: "Lecture notes on black holes, the Schwarzchild BH, the cosmic censorship\
   \ conjecture, BH uniqueness, Hawking\u2019s area theorem, using black holes to make\
   \ engines, and the first law of black hole thermodynamics."
-file: /ol-ocw-studio-app/courses/8-821-string-theory-fall-2008/ea42d2182b4a78c0501b2577a5478572_lecture22.pdf
+file: /courses/8-821-string-theory-fall-2008/ea42d2182b4a78c0501b2577a5478572_lecture22.pdf
 file_size: 188361
 file_type: application/pdf
 learning_resource_types:

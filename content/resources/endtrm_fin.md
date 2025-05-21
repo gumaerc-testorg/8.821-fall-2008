@@ -2,7 +2,7 @@
 content_type: resource
 description: Annotated list of suggested topics for the end of term project, a half-hour
   presentation or short paper summarizing a topic of interest relevant to the course.
-file: /ol-ocw-studio-app/courses/8-821-string-theory-fall-2008/347f8e896c34f40e57d77ded14a52b6f_endtrm_fin.pdf
+file: /courses/8-821-string-theory-fall-2008/347f8e896c34f40e57d77ded14a52b6f_endtrm_fin.pdf
 file_size: 81677
 file_type: application/pdf
 learning_resource_types:

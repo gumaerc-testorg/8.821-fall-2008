@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on classical field theories in greater than 2 spacetime
   dimensions and what conformal invariance really means for a quantum field theory.
-file: /ol-ocw-studio-app/courses/8-821-string-theory-fall-2008/0d1bda106dfd2af510daf14b261c56fb_lecture10.pdf
+file: /courses/8-821-string-theory-fall-2008/0d1bda106dfd2af510daf14b261c56fb_lecture10.pdf
 file_size: 171587
 file_type: application/pdf
 learning_resource_types:

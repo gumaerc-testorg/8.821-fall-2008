@@ -2,7 +2,7 @@
 content_type: resource
 description: Solutions to a problem set on bulk vector fields, relation between AdS
   propagators, Wilson line with cusp, and surface gravity.
-file: /ol-ocw-studio-app/courses/8-821-string-theory-fall-2008/2d0696f1323d19be278f3cd1db85d91e_soln05.pdf
+file: /courses/8-821-string-theory-fall-2008/2d0696f1323d19be278f3cd1db85d91e_soln05.pdf
 file_size: 233309
 file_type: application/pdf
 learning_resource_types:
