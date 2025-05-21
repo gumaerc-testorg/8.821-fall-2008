@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set on thermodynamics at strong coupling.
-file: /ol-ocw-studio-app/courses/8-821-string-theory-fall-2008/248fc0b9051e55a11af8a2aa13a55065_pset06.pdf
+file: /courses/8-821-string-theory-fall-2008/248fc0b9051e55a11af8a2aa13a55065_pset06.pdf
 file_size: 94410
 file_type: application/pdf
 learning_resource_types:
