@@ -2,7 +2,7 @@
 content_type: resource
 description: Solutions to a problem set on conformal invariance, large N, and geometry
   of AdS.
-file: /ol-ocw-studio-app/courses/8-821-string-theory-fall-2008/358719320647b5a5c15d038acc7c22ed_soln03.pdf
+file: /courses/8-821-string-theory-fall-2008/358719320647b5a5c15d038acc7c22ed_soln03.pdf
 file_size: 251526
 file_type: application/pdf
 learning_resource_types:
