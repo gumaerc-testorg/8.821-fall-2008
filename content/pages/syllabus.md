@@ -2,6 +2,7 @@
 content_type: page
 description: This section discusses about summary, prerequisites, preparation, course
   work, text books and others.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -11,43 +12,35 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
-
-Course Meeting Times
---------------------
+## Course Meeting Times
 
 Lectures: 2 session / week, 1.5 hours / session
 
-Summary
--------
+## Summary
 
 It turns out that string theory is useful. This will be a one-semester class about gauge/gravity duality (often called AdS/CFT) and its applications.
 
-Prerequisite
-------------
+## Prerequisite
 
 Relativistic Quantum Field Theory II (8.324)
 
-Preparation
------------
+## Preparation
 
 GR, QFT or sufficient willingness to temporarily suspend disbelief. Previous exposure to string theory recommended but not essential.
 
-Coursework
-----------
+## Coursework
 
 There will be three kinds of coursework this semester:
 
-*   Problem sets
-*   Scribe notes: each lecture, one person will volunteer to be the scribe for that lecture, and is responsible for taking notes and texing them up and sending them to me. After (hopefully minor) revisions, I will post them for the rest of the students to see. To help in writing up the lectures notes, I will give the scribe a copy of my written notes, and maybe an audio recording of the lecture.
-*   End-of-term project. The first option is to give a brief talk summarizing a result of interest to the class. I'll provide a list of appropriate subjects. The second option is to write a brief paper doing the same.
+- Problem sets
+- Scribe notes: each lecture, one person will volunteer to be the scribe for that lecture, and is responsible for taking notes and texing them up and sending them to me. After (hopefully minor) revisions, I will post them for the rest of the students to see. To help in writing up the lectures notes, I will give the scribe a copy of my written notes, and maybe an audio recording of the lecture.
+- End-of-term project. The first option is to give a brief talk summarizing a result of interest to the class. I'll provide a list of appropriate subjects. The second option is to write a brief paper doing the same.
 
-Textbook
---------
+## Textbook
 
-Unfortunately, there isn't a textbook yet which follows the path in store for us. Below are some string theory references as well as a list of books and papers which we may find useful. Specific suggested readings lecture-by-lecture are provided in the {{% resource_link 06d51dc8-8cb5-2f7e-f73b-542f5ec30d65 "readings" %}} section. Additional references are provided in the {{% resource_link 6e2685c4-e948-899d-dd02-bc38c45d7888 "related resources" %}} section.
+Unfortunately, there isn't a textbook yet which follows the path in store for us. Below are some string theory references as well as a list of books and papers which we may find useful. Specific suggested readings lecture-by-lecture are provided in the {{% resource_link "06d51dc8-8cb5-2f7e-f73b-542f5ec30d65" "readings" %}} section. Additional references are provided in the {{% resource_link "6e2685c4-e948-899d-dd02-bc38c45d7888" "related resources" %}} section.
 
-String Theory References for the Class
---------------------------------------
+## String Theory References for the Class
 
 TASI Lectures on [AdS/CFT](http://arxiv.org/abs/hep-th/0309246)
 
@@ -63,28 +56,27 @@ TASI Lectures on the [Holographic Principle](http://arxiv.org/abs/hep-th/0002044
 
 [Viscosity, Black Holes and Quantum Field Theory](http://arxiv.org/abs/0704.0240)
 
-Introductory Lectures on Black Hole Thermodynamics ([PS](http://www.glue.umd.edu/~tajac/BHTlectures/lectures.ps))
+Introductory Lectures on Black Hole Thermodynamics ([PS](https://www.physics.umd.edu/grt/taj/776b/lectures.pdf))
 
-Susskind, Leonard, and James Lindesay. _An Introduction to Black Holes, Information, and the String Theory Revolution: The Holographic Universe_. Hackensack, NJ: World Scientific, 2004. ISBN: 9789812560834.
+Susskind, Leonard, and James Lindesay. *An Introduction to Black Holes, Information, and the String Theory Revolution: The Holographic Universe*. Hackensack, NJ: World Scientific, 2004. ISBN: 9789812560834.
 
-Kiritsis, Elias. _String Theory in a Nutshell_. Princeton, NJ: Princeton University Press, 2007. ISBN: 9780691122304.
+Kiritsis, Elias. *String Theory in a Nutshell*. Princeton, NJ: Princeton University Press, 2007. ISBN: 9780691122304.
 
-Becker, Katrin, Melanie Becker, and John H. Schwarz. _String Theory and M-Theory: A Modern Introduction_. Cambridge, UK: Cambridge University Press, 2007. ISBN: 9780521860697.
+Becker, Katrin, Melanie Becker, and John H. Schwarz. *String Theory and M-Theory: A Modern Introduction*. Cambridge, UK: Cambridge University Press, 2007. ISBN: 9780521860697.
 
-General String Theory References
---------------------------------
+## General String Theory References
 
-Polchinski, Joseph Gerard. _String Theory_. Vol. 1, _An Introduction to the Bosonic String. Cambridge Monographs on Mathematical Physics_. Cambridge, UK: Cambridge University Press, 2005. ISBN: 9780521672276.
+Polchinski, Joseph Gerard. *String Theory*. Vol. 1, *An Introduction to the Bosonic String. Cambridge Monographs on Mathematical Physics*. Cambridge, UK: Cambridge University Press, 2005. ISBN: 9780521672276.
 
-———. _String Theory_. Vol. 2, _Superstring Theory and Beyond. Cambridge Monographs on Mathematical Physics_. Cambridge, UK: Cambridge University Press, 2005. ISBN: 9780521672283.
+———. *String Theory*. Vol. 2, *Superstring Theory and Beyond. Cambridge Monographs on Mathematical Physics*. Cambridge, UK: Cambridge University Press, 2005. ISBN: 9780521672283.
 
-Green, M., John H. Schwarz, and E. Witten. _Superstring Theory_. Vol. 1, _Introduction. Cambridge Monographs on Mathematical Physics_. Cambridge, UK: Cambridge University Press, 1988. ISBN: 9780521357524.
+Green, M., John H. Schwarz, and E. Witten. *Superstring Theory*. Vol. 1, *Introduction. Cambridge Monographs on Mathematical Physics*. Cambridge, UK: Cambridge University Press, 1988. ISBN: 9780521357524.
 
-———. _Superstring Theory_. Vol. 2, _Loop Amplitutes, Anomalies and Phenomenology_. Cambridge, UK: Cambridge University Press, 1988. ISBN: 9780521357531.
+———. *Superstring Theory*. Vol. 2, *Loop Amplitutes, Anomalies and Phenomenology*. Cambridge, UK: Cambridge University Press, 1988. ISBN: 9780521357531.
 
-Polyakov, A. M. _Gauge Fields and Strings. Contemporary Concepts in Physics_. Vol. 3. New York, NY: CRC Publishers, 1987. ISBN: 9783718603930.
+Polyakov, A. M. *Gauge Fields and Strings. Contemporary Concepts in Physics*. Vol. 3. New York, NY: CRC Publishers, 1987. ISBN: 9783718603930.
 
-Lust, D., and S. Theisen. _Lectures on String Theory_. Lecture notes in physics, 346. New York, NY: Springer-Verlag, 1989. ISBN: 9780387518824.
+Lust, D., and S. Theisen. *Lectures on String Theory*. Lecture notes in physics, 346. New York, NY: Springer-Verlag, 1989. ISBN: 9780387518824.
 
 M. Peskin's TASI lectures: Introduction to String Theory and Superstring Theory II ([PDF - 5.5 MB](http://www.slac.stanford.edu/cgi-wrap/getdoc/slac-pub-4251.pdf))
 
@@ -92,4 +84,4 @@ P. Ginsparg's Applied Conformal Field Theory lectures ([PDF](http://arxiv.org/PS
 
 A. Uranga's Lecture Notes for a [Graduate Course in String Theory](http://members.ift.uam-csic.es/auranga/firstpage.html) at the Universidad Autonoma de Madrid
 
-Zwiebach, Barton. _A First Course in String Theory_. Cambridge, UK: Cambridge University Press, 2009. ISBN: 9780521880329.
+Zwiebach, Barton. *A First Course in String Theory*. Cambridge, UK: Cambridge University Press, 2009. ISBN: 9780521880329.
