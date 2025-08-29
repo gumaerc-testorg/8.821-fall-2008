@@ -2,7 +2,7 @@
 content_type: resource
 description: "Lecture notes on the wave equation in AdS, Witten's method, k-space,\
   \ Euclidean AdS, and Green\u2019s function."
-file: /courses/8-821-string-theory-fall-2008/8caef2b2fd460cd03dde5d4700041ee0_lecture14.pdf
+file: /ol-ocw-studio-app/courses/8-821-string-theory-fall-2008/8caef2b2fd460cd03dde5d4700041ee0_lecture14.pdf
 file_size: 185054
 file_type: application/pdf
 learning_resource_types:

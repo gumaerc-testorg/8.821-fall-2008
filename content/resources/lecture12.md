@@ -2,7 +2,7 @@
 content_type: resource
 description: "Lecture notes on the boundary of AdS, Poincar\xE9 patch, motivate boundary\
   \ value problem, and the wave equation in AdS."
-file: /courses/8-821-string-theory-fall-2008/6e89ec211a53149e0f87d350191c4f63_lecture12.pdf
+file: /ol-ocw-studio-app/courses/8-821-string-theory-fall-2008/6e89ec211a53149e0f87d350191c4f63_lecture12.pdf
 file_size: 213353
 file_type: application/pdf
 learning_resource_types:
