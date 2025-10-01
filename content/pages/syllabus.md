@@ -42,21 +42,21 @@ Unfortunately, there isn't a textbook yet which follows the path in store for us
 
 ## String Theory References for the Class
 
-TASI Lectures on [AdS/CFT](http://arxiv.org/abs/hep-th/0309246)
+TASI Lectures on {{% resource_link "f00cb4ff-2e0a-420e-ab90-37725db4a5b2" "AdS/CFT" %}}
 
-[Large N Field Theories, String Theory and Gravity](http://arxiv.org/abs/hep-th/9905111)
+{{% resource_link "470db9c2-ffa4-4d13-bc4e-a3e89252c600" "Large N Field Theories, String Theory and Gravity" %}}
 
-[Supersymmetric Gauge Theories and the AdS/CFT Correspondence](http://arxiv.org/abs/hep-th/0201253)
+{{% resource_link "51b5e247-7d0d-4da7-95b3-96a15219464c" "Supersymmetric Gauge Theories and the AdS/CFT Correspondence" %}}
 
-TASI Lectures on [Introduction to the AdS/CFT Correspondence](http://arxiv.org/abs/hep-th/0009139)
+TASI Lectures on {{% resource_link "9b86dc57-b3bb-497b-9ea3-7e6e5ded1408" "Introduction to the AdS/CFT Correspondence" %}}
 
-TASI Lectures on the [Holographic Principle](http://arxiv.org/abs/hep-th/0002044)
+TASI Lectures on the {{% resource_link "368d741a-6468-4592-86e9-2dc85c385f07" "Holographic Principle" %}}
 
-[Black Holes](http://arxiv.org/abs/hep-th/9607235) in String Theory
+{{% resource_link "0ed26f8c-cf74-41ef-ac3e-6872801ccbba" "Black Holes" %}} in String Theory
 
-[Viscosity, Black Holes and Quantum Field Theory](http://arxiv.org/abs/0704.0240)
+{{% resource_link "ea9bb3d0-6411-4bd0-82fd-be44fbd210db" "Viscosity, Black Holes and Quantum Field Theory" %}}
 
-Introductory Lectures on Black Hole Thermodynamics ([PS](https://www.physics.umd.edu/grt/taj/776b/lectures.pdf))
+Introductory Lectures on Black Hole Thermodynamics ({{% resource_link "1d38658d-e05a-4bf2-b195-26a2991a4116" "PS" %}})
 
 Susskind, Leonard, and James Lindesay. *An Introduction to Black Holes, Information, and the String Theory Revolution: The Holographic Universe*. Hackensack, NJ: World Scientific, 2004. ISBN: 9789812560834.
 
@@ -78,10 +78,10 @@ Polyakov, A. M. *Gauge Fields and Strings. Contemporary Concepts in Physics*. Vo
 
 Lust, D., and S. Theisen. *Lectures on String Theory*. Lecture notes in physics, 346. New York, NY: Springer-Verlag, 1989. ISBN: 9780387518824.
 
-M. Peskin's TASI lectures: Introduction to String Theory and Superstring Theory II ([PDF - 5.5 MB](http://www.slac.stanford.edu/cgi-wrap/getdoc/slac-pub-4251.pdf))
+M. Peskin's TASI lectures: Introduction to String Theory and Superstring Theory II ({{% resource_link "a1d642c1-f2a4-4215-89de-177a3ebbb2d2" "PDF - 5.5 MB" %}})
 
-P. Ginsparg's Applied Conformal Field Theory lectures ([PDF](http://arxiv.org/PS_cache/hep-th/pdf/9108/9108028v1.pdf))
+P. Ginsparg's Applied Conformal Field Theory lectures ({{% resource_link "51bf92a2-c32f-4e29-892c-80dbc1568712" "PDF" %}})
 
-A. Uranga's Lecture Notes for a [Graduate Course in String Theory](http://members.ift.uam-csic.es/auranga/firstpage.html) at the Universidad Autonoma de Madrid
+A. Uranga's Lecture Notes for a {{% resource_link "eede82de-9f9a-4179-bcd9-fc661bbc7385" "Graduate Course in String Theory" %}} at the Universidad Autonoma de Madrid
 
 Zwiebach, Barton. *A First Course in String Theory*. Cambridge, UK: Cambridge University Press, 2009. ISBN: 9780521880329.
