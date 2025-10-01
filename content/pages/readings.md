@@ -29,40 +29,40 @@ What you need to know about string theory
 {{< tdclose >}}{{< tdopen >}}
 D3-branes at small and large coupling
 {{< tdclose >}}{{< tdopen >}}
-[Large N Field Theories, String Theory and Gravity](http://arxiv.org/abs/hep-th/9905111), section 1.1.
+{{% resource_link "470db9c2-ffa4-4d13-bc4e-a3e89252c600" "Large N Field Theories, String Theory and Gravity" %}}, section 1.1.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
 AdS/CFT from scratch, no strings
 {{< tdclose >}}{{< tdopen >}}
-[Gauge/Gravity Duality](http://arxiv.org/abs/gr-qc/0602037)
+{{% resource_link "3bf0c919-6967-476e-a029-c6a6f563a020" "Gauge/Gravity Duality" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
 What holds up the throat?
 {{< tdclose >}}{{< tdopen >}}
-[Physics of String Flux Compactifications](http://arxiv.org/abs/hep-th/0701050)
+{{% resource_link "ea9abf7d-a60c-46e2-aaf2-ffc95ad07aa7" "Physics of String Flux Compactifications" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
 How to defend yourself from a supersymmetric field theory
 {{< tdclose >}}{{< tdopen >}}
-[Supersymmetric Gauge Theories and the AdS/CFT Correspondence](http://arxiv.org/abs/hep-th/0201253), sections 2-4.
+{{% resource_link "51b5e247-7d0d-4da7-95b3-96a15219464c" "Supersymmetric Gauge Theories and the AdS/CFT Correspondence" %}}, sections 2-4.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
 About the N = 4 SYM theory
 {{< tdclose >}}{{< tdopen >}}
-[Supersymmetric Gauge Theories and the AdS/CFT Correspondence](http://arxiv.org/abs/hep-th/0201253), section 3.
+{{% resource_link "51b5e247-7d0d-4da7-95b3-96a15219464c" "Supersymmetric Gauge Theories and the AdS/CFT Correspondence" %}}, section 3.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
 Big picture of correspondence; strings and strong interactions
 {{< tdclose >}}{{< tdopen >}}
 
-[Large N Field Theories, String Theory and Gravity](http://arxiv.org/abs/hep-th/9905111), section 3.1.2.
+{{% resource_link "470db9c2-ffa4-4d13-bc4e-a3e89252c600" "Large N Field Theories, String Theory and Gravity" %}}, section 3.1.2.
 
-[TASI Lectures on AdS/CFT](http://arxiv.org/abs/hep-th/0309246), sections 2 and 3.0.
+{{% resource_link "f00cb4ff-2e0a-420e-ab90-37725db4a5b2" "TASI Lectures on AdS/CFT" %}}, sections 2 and 3.0.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -70,11 +70,11 @@ Big picture of correspondence; strings and strong interactions
 't Hooft counting
 {{< tdclose >}}{{< tdopen >}}
 
-Coleman's \`1/N' paper ([PDF - 1.3 MB](http://link.springer.com/book/10.1007%2F978-1-4684-1065-5)){{< sup "#" >}}
+Coleman's \`1/N' paper ({{% resource_link "49ff74fa-7f71-4409-9e4c-036ad1cbfdef" "PDF - 1.3 MB" %}}){{< sup "#" >}}
 
-[Large N Field Theories, String Theory and Gravity](http://arxiv.org/abs/hep-th/9905111), section 1.2.
+{{% resource_link "470db9c2-ffa4-4d13-bc4e-a3e89252c600" "Large N Field Theories, String Theory and Gravity" %}}, section 1.2.
 
-[TASI Lectures on AdS/CFT](http://arxiv.org/abs/hep-th/0309246), section 2.
+{{% resource_link "f00cb4ff-2e0a-420e-ab90-37725db4a5b2" "TASI Lectures on AdS/CFT" %}}, section 2.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -82,11 +82,11 @@ Coleman's \`1/N' paper ([PDF - 1.3 MB](http://link.springer.com/book/10.1007%2F9
 Scale and conformal invariance in field theory
 {{< tdclose >}}{{< tdopen >}}
 
-[Applied Conformal Field Theory](http://arxiv.org/abs/hep-th/9108028)
+{{% resource_link "ce08624f-0845-4f9c-b69e-da1c3c789a12" "Applied Conformal Field Theory" %}}
 
-[Large N Field Theories, String Theory and Gravity](http://arxiv.org/abs/hep-th/9905111), section 2.1.
+{{% resource_link "470db9c2-ffa4-4d13-bc4e-a3e89252c600" "Large N Field Theories, String Theory and Gravity" %}}, section 2.1.
 
-[Introduction to Conformal Invariance](http://dx.doi.org/10.1111/j.1749-6632.1974.tb20531.x)
+{{% resource_link "ee9866b8-ac6c-4c9a-b45f-3f876b43f495" "Introduction to Conformal Invariance" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -100,11 +100,11 @@ Same readings as previous lecture
 Geometry of AdS
 {{< tdclose >}}{{< tdopen >}}
 
-[Large N Field Theories, String Theory and Gravity](http://arxiv.org/abs/hep-th/9905111), section 2.2.
+{{% resource_link "470db9c2-ffa4-4d13-bc4e-a3e89252c600" "Large N Field Theories, String Theory and Gravity" %}}, section 2.2.
 
 Kiritsis, Elias. *String Theory in a Nutshell*. Princeton, NJ: Princeton University Press, 2007, appendix K. ISBN: 9780691122304.
 
-[TASI Lectures on AdS/CFT](http://arxiv.org/abs/hep-th/0309246), section 2.
+{{% resource_link "f00cb4ff-2e0a-420e-ab90-37725db4a5b2" "TASI Lectures on AdS/CFT" %}}, section 2.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -112,9 +112,9 @@ Kiritsis, Elias. *String Theory in a Nutshell*. Princeton, NJ: Princeton Univers
 Geometry of AdS (cont.); Poincaré patch; wave equation in AdS
 {{< tdclose >}}{{< tdopen >}}
 
-[Introduction to the Maldacena Conjecture on AdS/CFT](http://arxiv.org/abs/hep-th/9902131), section 2.
+{{% resource_link "18ff1cf4-c940-4b5c-a2a5-10df81c0eee2" "Introduction to the Maldacena Conjecture on AdS/CFT" %}}, section 2.
 
-[TASI Lectures on AdS/CFT](http://arxiv.org/abs/hep-th/0309246), section 3.
+{{% resource_link "f00cb4ff-2e0a-420e-ab90-37725db4a5b2" "TASI Lectures on AdS/CFT" %}}, section 3.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -122,9 +122,9 @@ Geometry of AdS (cont.); Poincaré patch; wave equation in AdS
 Masses of fields and dimensions of operators; BF-allowed tachyons
 {{< tdclose >}}{{< tdopen >}}
 
-[TASI Lectures on AdS/CFT](http://arxiv.org/abs/hep-th/0309246), section 4.
+{{% resource_link "f00cb4ff-2e0a-420e-ab90-37725db4a5b2" "TASI Lectures on AdS/CFT" %}}, section 4.
 
-[Large N Field Theories, String Theory and Gravity](http://arxiv.org/abs/hep-th/9905111), section 3.3.
+{{% resource_link "470db9c2-ffa4-4d13-bc4e-a3e89252c600" "Large N Field Theories, String Theory and Gravity" %}}, section 3.3.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
@@ -132,13 +132,13 @@ Masses of fields and dimensions of operators; BF-allowed tachyons
 How to compute two-point correlators of scalar operators
 {{< tdclose >}}{{< tdopen >}}
 
-[TASI Lectures on AdS/CFT](http://arxiv.org/abs/hep-th/0309246), section 4.
+{{% resource_link "f00cb4ff-2e0a-420e-ab90-37725db4a5b2" "TASI Lectures on AdS/CFT" %}}, section 4.
 
-[Large N Field Theories, String Theory and Gravity](http://arxiv.org/abs/hep-th/9905111), section 3.3.
+{{% resource_link "470db9c2-ffa4-4d13-bc4e-a3e89252c600" "Large N Field Theories, String Theory and Gravity" %}}, section 3.3.
 
-[Gauge Theory Correlators from Non-Critical String Theory](http://arxiv.org/abs/hep-th/9802109)
+{{% resource_link "5306b18c-bb89-4229-8e76-367570485784" "Gauge Theory Correlators from Non-Critical String Theory" %}}
 
-[Anti De Sitter Space And Holography](http://arxiv.org/abs/hep-th/9802150), sections 2.4 and 2.5.
+{{% resource_link "1d27d333-fec7-4ec6-98c4-76ab20195c62" "Anti De Sitter Space And Holography" %}}, sections 2.4 and 2.5.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
@@ -148,7 +148,7 @@ Preview of real-time issues; two-point functions in momentum space (cont.); more
 
 Same readings as previous lecture
 
-[AdS/CFT Correspondence and Symmetry Breaking](http://arxiv.org/abs/hep-th/9905104)
+{{% resource_link "73b81d9f-4942-405f-85e8-931f5652d879" "AdS/CFT Correspondence and Symmetry Breaking" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
@@ -156,15 +156,15 @@ Same readings as previous lecture
 Three-point functions, anomalies; expectation values
 {{< tdclose >}}{{< tdopen >}}
 
-[Large N Field Theories, String Theory and Gravity](http://arxiv.org/abs/hep-th/9905111), sections 3.2.2 and 3.3.2.
+{{% resource_link "470db9c2-ffa4-4d13-bc4e-a3e89252c600" "Large N Field Theories, String Theory and Gravity" %}}, sections 3.2.2 and 3.3.2.
 
-[Supersymmetric Gauge Theories and the AdS/CFT Correspondence](http://arxiv.org/abs/hep-th/0201253), sections x8.4 and 8.5.
+{{% resource_link "51b5e247-7d0d-4da7-95b3-96a15219464c" "Supersymmetric Gauge Theories and the AdS/CFT Correspondence" %}}, sections x8.4 and 8.5.
 
-[Correlation Functions in the CFT(d)/AdS(d+1) Correspondence](http://arxiv.org/abs/hep-th/9804058)
+{{% resource_link "b909d2ff-6b3c-4e3f-ad7c-ba55c6d7fe1e" "Correlation Functions in the CFT(d)/AdS(d+1) Correspondence" %}}
 
-[Anti De Sitter Space And Holography](http://arxiv.org/abs/hep-th/9802150), sections 2.4 and 2.5.
+{{% resource_link "1d27d333-fec7-4ec6-98c4-76ab20195c62" "Anti De Sitter Space And Holography" %}}, sections 2.4 and 2.5.
 
-[AdS/CFT Correspondence and Symmetry Breaking](http://arxiv.org/abs/hep-th/9905104), p. 9.
+{{% resource_link "73b81d9f-4942-405f-85e8-931f5652d879" "AdS/CFT Correspondence and Symmetry Breaking" %}}, p. 9.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
@@ -174,7 +174,7 @@ Wilson loops
 
 Kiritsis, Elias. *String Theory in a Nutshell*. Princeton, NJ: Princeton University Press, 2007, section 13.9. ISBN: 9780691122304.
 
-[Large N Field Theories, String Theory and Gravity](http://arxiv.org/abs/hep-th/9905111), section 3.5.
+{{% resource_link "470db9c2-ffa4-4d13-bc4e-a3e89252c600" "Large N Field Theories, String Theory and Gravity" %}}, section 3.5.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
@@ -184,9 +184,9 @@ Wilson loops (cont.)
 
 Same readings as previous lecture
 
-[Wilson Loops and Minimal Surfaces](http://arxiv.org/abs/hep-th/9904191)
+{{% resource_link "51f58955-d1b9-4d5d-9d6d-7cd356c75d14" "Wilson Loops and Minimal Surfaces" %}}
 
-[The Operator Product Expansion for Wilson Loops and Surfaces in the Large N Limit](http://arxiv.org/abs/hep-th/9809188)
+{{% resource_link "665e3d26-6600-4b70-83ce-9758d68cf452" "The Operator Product Expansion for Wilson Loops and Surfaces in the Large N Limit" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
@@ -194,13 +194,13 @@ Same readings as previous lecture
 Pointlike probes of the bulk; Baryons and branes in AdS; 'Non-spherical horizons'
 {{< tdclose >}}{{< tdopen >}}
 
-[Large N Field Theories, String Theory and Gravity](http://arxiv.org/abs/hep-th/9905111), sections 3.5.2, 4.1, and 4.2.
+{{% resource_link "470db9c2-ffa4-4d13-bc4e-a3e89252c600" "Large N Field Theories, String Theory and Gravity" %}}, sections 3.5.2, 4.1, and 4.2.
 
-[Conformal Anomaly Of Submanifold Observables In AdS/CFT Correspondence](http://arxiv.org/abs/hep-th/9901021)
+{{% resource_link "581445c8-32f5-4baf-939b-406b6a79d9dd" "Conformal Anomaly Of Submanifold Observables In AdS/CFT Correspondence" %}}
 
-[The Black Hole Singularity in AdS/CFT](http://arxiv.org/abs/hep-th/0306170)
+{{% resource_link "bfcaf7a3-ba53-42ee-a538-a21dd09996c2" "The Black Hole Singularity in AdS/CFT" %}}
 
-[Invasion of the Giant Gravitons from Anti-de Sitter Space](http://arxiv.org/abs/hep-th/0003075)
+{{% resource_link "48688b05-85d9-439b-b0d1-52eacb500a68" "Invasion of the Giant Gravitons from Anti-de Sitter Space" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
@@ -208,11 +208,11 @@ Pointlike probes of the bulk; Baryons and branes in AdS; 'Non-spherical horizons
 Brief survey of other examples of the correspondence (M2, M5, D1-D5, Dp, branes at singularities); a model of confinement
 {{< tdclose >}}{{< tdopen >}}
 
-[Large N Field Theories, String Theory and Gravity](http://arxiv.org/abs/hep-th/9905111), sections 4.1, 6.1, and 6.2.
+{{% resource_link "470db9c2-ffa4-4d13-bc4e-a3e89252c600" "Large N Field Theories, String Theory and Gravity" %}}, sections 4.1, 6.1, and 6.2.
 
-[Supergravity and The Large N Limit of Theories With Sixteen Supercharges](http://arxiv.org/abs/hep-th/9802042)
+{{% resource_link "ddee2fd9-d5fc-4623-84ca-3196571e4924" "Supergravity and The Large N Limit of Theories With Sixteen Supercharges" %}}
 
-[TASI Lectures on AdS/CFT](http://arxiv.org/abs/hep-th/0309246), section 6.
+{{% resource_link "f00cb4ff-2e0a-420e-ab90-37725db4a5b2" "TASI Lectures on AdS/CFT" %}}, section 6.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
@@ -220,11 +220,11 @@ Brief survey of other examples of the correspondence (M2, M5, D1-D5, Dp, branes 
 Confinement (cont.): how to measure the spectrum, proof of mass gap
 {{< tdclose >}}{{< tdopen >}}
 
-[Anti-de Sitter Space, Thermal Phase Transition, And Confinement In Gauge Theories](http://arxiv.org/abs/hep-th/9803131)
+{{% resource_link "fb588319-f38f-46bd-affb-0ad3c9d1e2e6" "Anti-de Sitter Space, Thermal Phase Transition, And Confinement In Gauge Theories" %}}
 
-[Large N Field Theories, String Theory and Gravity](http://arxiv.org/abs/hep-th/9905111), section 6.2.
+{{% resource_link "470db9c2-ffa4-4d13-bc4e-a3e89252c600" "Large N Field Theories, String Theory and Gravity" %}}, section 6.2.
 
-[TASI Lectures on AdS/CFT](http://arxiv.org/abs/hep-th/0309246), section 6.
+{{% resource_link "f00cb4ff-2e0a-420e-ab90-37725db4a5b2" "TASI Lectures on AdS/CFT" %}}, section 6.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
@@ -232,9 +232,9 @@ Confinement (cont.): how to measure the spectrum, proof of mass gap
 Black hole mechanics, classical and quantum
 {{< tdclose >}}{{< tdopen >}}
 
-Introductory Lectures on Black Hole Thermodynamics, sections 2 and 3 ([PS](https://www.physics.umd.edu/grt/taj/776b/lectures.pdf)).
+Introductory Lectures on Black Hole Thermodynamics, sections 2 and 3 ({{% resource_link "1d38658d-e05a-4bf2-b195-26a2991a4116" "PS" %}}).
 
-[Black Holes](http://arxiv.org/abs/gr-qc/9707012), chapter 6.
+{{% resource_link "fa56a3b4-1d2c-4a76-874c-d64068975b9f" "Black Holes" %}}, chapter 6.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
@@ -248,7 +248,7 @@ No references
 Hawking effect for interacting field theories and BH thermodynamics
 {{< tdclose >}}{{< tdopen >}}
 
-Introductory Lectures on Black Hole Thermodynamics, section 3 ([PS](https://www.physics.umd.edu/grt/taj/776b/lectures.pdf)).
+Introductory Lectures on Black Hole Thermodynamics, section 3 ({{% resource_link "1d38658d-e05a-4bf2-b195-26a2991a4116" "PS" %}}).
 
 Susskind, Leonard, and James Lindesay. *An Introduction to Black Holes, Information, and the String Theory Revolution: The Holographic Universe*. Hackensack, NJ: World Scientific, 2004, chapter 3. ISBN: 9789812560834.
 
@@ -258,8 +258,8 @@ Susskind, Leonard, and James Lindesay. *An Introduction to Black Holes, Informat
 AdS black holes and thermal gauge theory: Polyakov-Susskind loop, screening, quasinormal modes, Hawking-page transition
 {{< tdclose >}}{{< tdopen >}}
 
-[Large N Field Theories, String Theory and Gravity](http://arxiv.org/abs/hep-th/9905111), section 3.6.
+{{% resource_link "470db9c2-ffa4-4d13-bc4e-a3e89252c600" "Large N Field Theories, String Theory and Gravity" %}}, section 3.6.
 
-[Anti-de Sitter Space, Thermal Phase Transition, And Confinement In Gauge Theories](http://arxiv.org/abs/hep-th/9803131)
+{{% resource_link "fb588319-f38f-46bd-affb-0ad3c9d1e2e6" "Anti-de Sitter Space, Thermal Phase Transition, And Confinement In Gauge Theories" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
