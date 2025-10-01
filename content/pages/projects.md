@@ -18,7 +18,7 @@ An appropriate topic could also be a system that you think may be amenable to st
 
 Your goal in deciding what to say should be to try to save the rest of us from having to read the papers. Give some context, say what the crucial point is, say what the implications are.
 
-If you are planning to give a talk, I can't recommend highly enough the advice from [Geroch, gr-qc/9703019](http://arxiv.org/abs/gr-qc/9703019).
+If you are planning to give a talk, I can't recommend highly enough the advice from {{% resource_link "1985276f-c172-4008-8271-9f18f67796da" "Geroch, gr-qc/9703019" %}}.
 
 Below are some topic suggestions, involving wildly varying levels of difficulty. The list is certainly not in any sense exhaustive. Creative topics are encouraged.
 
