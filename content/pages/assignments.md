@@ -86,4 +86,4 @@ Problem set 6 ({{% resource_link 248fc0b9-051e-55a1-1af8-a2aa13a55065 "PDF" %}})
 
 Template for curvature calculations in mathematica, curvaturetemplate.nb ({{% resource_link 01b9f467-d411-4081-9b14-8535e5932f60 "NB" %}})
 
-\* Note: For a hint on problem 1, see pages 100-101 of d'Hoker-Freedman for a sample tetrad calculation ([PDF - 1.1 MB](http://arxiv.org/PS_cache/hep-th/pdf/0201/0201253v2.pdf))
+\* Note: For a hint on problem 1, see pages 100-101 of d'Hoker-Freedman for a sample tetrad calculation ({{% resource_link "30bf015e-91f3-427f-b007-4106e0d0ed8d" "PDF - 1.1 MB" %}})
